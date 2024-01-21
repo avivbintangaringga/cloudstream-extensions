@@ -1,0 +1,21 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ngefilm21.pw&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/avivbintangaringga/cloudstream-extensions",
+        "fileSize": 21097,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Aviv B.A"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 12,
+        "internalName": "Ngefilm",
+        "url": "https://raw.githubusercontent.com/avivbintangaringga/cloudstream-extensions/builds/Ngefilm.cs3",
+        "name": "Ngefilm"
+    }
+]
