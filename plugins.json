@@ -1,0 +1,23 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=gomov.bio&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/avivbintangaringga/cloudstream-extensions",
+        "fileSize": 30904,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 31,
+        "internalName": "Gomov",
+        "description": "Includes: DutaMovie, Ngefilm, Nodrakorid, Multiplex, Pusatfilm",
+        "url": "https://raw.githubusercontent.com/avivbintangaringga/cloudstream-extensions/builds/Gomov.cs3",
+        "name": "Gomov"
+    }
+]
